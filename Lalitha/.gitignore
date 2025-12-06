@@ -1,0 +1,20 @@
+# Node modules
+Wad_BackEnd/node_modules
+Wad_FrontEnd/node_modules
+
+# Environment files
+Wad_BackEnd/.env
+Wad_FrontEnd/.env
+
+# Build folders (if you build the React app)
+Wad_FrontEnd/dist
+Wad_FrontEnd/build
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
