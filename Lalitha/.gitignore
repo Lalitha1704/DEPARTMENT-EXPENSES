@@ -6,6 +6,11 @@ Wad_FrontEnd/node_modules
 Wad_BackEnd/.env
 Wad_FrontEnd/.env
 
+# Dependencies
+node_modules/
+Wad_BackEnd/node_modules/
+Wad_FrontEnd/node_modules/
+
 # Build folders (if you build the React app)
 Wad_FrontEnd/dist
 Wad_FrontEnd/build
